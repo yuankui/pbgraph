@@ -8,3 +8,7 @@ dependencies
 - pydot
 - protobuf
 
+
+usage
+---
+  ./pbgraph.py data.proto output.png/jpg/svg
