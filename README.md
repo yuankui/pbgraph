@@ -11,4 +11,4 @@ dependencies
 
 usage
 ---
-`./pbgraph.py data.proto output.png/jpg/svg`
+`./pbgraph.py tutorial.proto output.png/jpg/svg`
